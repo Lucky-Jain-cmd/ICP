@@ -10,6 +10,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 ## Two Pointers
@@ -17,6 +18,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
@@ -81,6 +84,7 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
