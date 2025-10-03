@@ -104,6 +104,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
