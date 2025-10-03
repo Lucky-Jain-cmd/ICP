@@ -6,6 +6,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
