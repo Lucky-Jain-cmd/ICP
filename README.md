@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 ## Binary Indexed Tree
 |  |
