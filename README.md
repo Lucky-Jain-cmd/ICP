@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
@@ -33,6 +34,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
