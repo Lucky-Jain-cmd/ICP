@@ -17,6 +17,7 @@
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [1331-path-with-maximum-gold](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1331-path-with-maximum-gold) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -63,6 +64,7 @@
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
+| [1331-path-with-maximum-gold](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1331-path-with-maximum-gold) |
 ## Simulation
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0077-combinations](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
+| [1331-path-with-maximum-gold](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1331-path-with-maximum-gold) |
 ## Depth-First Search
 |  |
 | ------- |
