@@ -26,6 +26,7 @@
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
