@@ -19,6 +19,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Dynamic Programming
 |  |
 | ------- |
