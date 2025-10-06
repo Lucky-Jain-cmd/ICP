@@ -25,6 +25,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +121,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
