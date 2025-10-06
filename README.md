@@ -77,6 +77,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
+| [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
+| [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
 ## Binary Indexed Tree
 |  |
 | ------- |
