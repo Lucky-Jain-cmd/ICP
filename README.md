@@ -15,6 +15,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
@@ -125,6 +126,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
 ## Binary Indexed Tree
 |  |
@@ -141,6 +143,7 @@
 | [0077-combinations](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
+| [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1331-path-with-maximum-gold) |
 ## Depth-First Search
@@ -194,5 +197,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
