@@ -74,6 +74,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -142,6 +143,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Design
