@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
