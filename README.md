@@ -210,4 +210,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
