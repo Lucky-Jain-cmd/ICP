@@ -1,37 +1,31 @@
-import java.util.HashSet;
-
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-      
-        HashSet<Character>[] rows = new HashSet[9];
-        HashSet<Character>[] cols = new HashSet[9];
-        HashSet<Character>[] boxes = new HashSet[9];
-        
-        for (int i = 0; i < 9; i++) {
-            rows[i] = new HashSet<>();
-            cols[i] = new HashSet<>();
-            boxes[i] = new HashSet<>();
-        }
-     
-        for (int r = 0; r < 9; r++) {
-            for (int c = 0; c < 9; c++) {
-                char val = board[r][c];
-                
-                if (val == '.') continue; 
-                
-                int boxIndex = (r / 3) * 3 + (c / 3);
-               
-                if (rows[r].contains(val) || cols[c].contains(val) || boxes[boxIndex].contains(val)) {
-                    return false; 
+        int len = board.length;
+        for (int i = 0; i < len; i++) {
+            for (int j = 0; j < len; j++) {
+                if (board[i][j] != '.') {
+                    if (!isValid(board, i, j, board[i][j])) {
+                        return false;
+                    }
                 }
-                
-               
-                rows[r].add(val);
-                cols[c].add(val);
-                boxes[boxIndex].add(val);
             }
         }
-        
+        return true;
+    }
+
+    private boolean isValid(char[][] board, int row, int col, char valChar) {
+        // Temporarily clear this cell
+        board[row][col] = '.';
+
+        for (int i = 0; i < 9; i++) {
+            if (board[row][i] == valChar) return false;
+            if (board[i][col] == valChar) return false;
+
+            int r = 3 * (row / 3) + i / 3;
+            int c = 3 * (col / 3) + i % 3;
+            if (board[r][c] == valChar) return false;
+        }
+        board[row][col] = valChar;
         return true;
     }
 }
