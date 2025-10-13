@@ -19,6 +19,7 @@
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
+| [0967-minimum-falling-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
@@ -78,6 +79,7 @@
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
+| [0967-minimum-falling-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1331-path-with-maximum-gold) |
 ## Simulation
@@ -144,6 +146,7 @@
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
+| [0967-minimum-falling-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
 ## Binary Indexed Tree
 |  |
