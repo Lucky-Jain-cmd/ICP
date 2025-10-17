@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
@@ -144,6 +145,7 @@
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
