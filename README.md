@@ -181,6 +181,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
