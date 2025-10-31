@@ -123,6 +123,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
@@ -220,6 +221,7 @@
 | [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Design
 |  |
 | ------- |
