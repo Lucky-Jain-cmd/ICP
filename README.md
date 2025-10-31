@@ -200,12 +200,14 @@
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -244,4 +246,8 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
