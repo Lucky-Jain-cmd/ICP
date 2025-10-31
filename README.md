@@ -114,6 +114,7 @@
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -211,6 +212,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0883-car-fleet) |
@@ -240,6 +242,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
