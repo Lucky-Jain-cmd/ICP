@@ -21,6 +21,7 @@
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
