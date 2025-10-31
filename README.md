@@ -109,6 +109,7 @@
 | [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
+| [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0516-longest-palindromic-subsequence) |
@@ -133,6 +134,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
@@ -202,6 +204,7 @@
 | [0155-min-stack](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -212,6 +215,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
