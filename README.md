@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
