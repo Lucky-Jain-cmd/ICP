@@ -278,6 +278,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0328-odd-even-linked-list) |
 ## Queue
 |  |
 | ------- |
