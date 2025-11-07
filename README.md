@@ -13,6 +13,7 @@
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
@@ -164,6 +165,7 @@
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
