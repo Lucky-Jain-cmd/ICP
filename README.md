@@ -9,6 +9,7 @@
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
@@ -89,6 +90,7 @@
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
