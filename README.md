@@ -67,11 +67,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
