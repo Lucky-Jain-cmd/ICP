@@ -43,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
@@ -170,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
