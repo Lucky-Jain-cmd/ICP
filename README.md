@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
@@ -129,6 +130,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
@@ -308,4 +310,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
