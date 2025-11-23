@@ -219,6 +219,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
@@ -287,6 +288,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0029-divide-two-integers) |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 ## Bitmask
