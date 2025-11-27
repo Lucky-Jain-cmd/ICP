@@ -280,6 +280,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0394-decode-string) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
