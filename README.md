@@ -32,6 +32,7 @@
 | [0883-car-fleet](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0967-minimum-falling-path-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0977-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1022-unique-paths-iii) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
@@ -52,6 +53,7 @@
 | [0234-palindrome-linked-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0977-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -63,6 +65,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0883-car-fleet](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0977-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
