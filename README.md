@@ -43,6 +43,7 @@
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0977-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1046-max-consecutive-ones-iii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
