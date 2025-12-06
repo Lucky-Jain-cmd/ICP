@@ -59,6 +59,7 @@
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0977-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -162,6 +163,7 @@
 | [1250-longest-common-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
@@ -187,6 +189,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
