@@ -3,18 +3,12 @@ class Solution {
         int i=0;
         int j=0;
         while(i<s.length() && j<t.length()){
-            if(s.charAt(i)!=t.charAt(j)){
-                i++;
-            }
-            else{
-                i++;
+            if(s.charAt(i)==t.charAt(j)){
                 j++;
-            }
+                }
+                i++;
         }
-        if(j!=t.length() && i==s.length()){
+      
             return t.length()-j;
         }
-            return 0;
-        
-    }
 }
