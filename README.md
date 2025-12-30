@@ -91,6 +91,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
+| [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 ## Graph
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 ## Stack
 |  |
@@ -339,4 +342,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0014-longest-common-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
