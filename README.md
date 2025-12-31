@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 ## Math
 |  |
@@ -255,6 +256,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 ## Stack
@@ -345,9 +347,14 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
