@@ -18,6 +18,7 @@
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
+| [0134-gas-station](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0198-house-robber) |
@@ -185,6 +186,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0680-valid-palindrome-ii) |
