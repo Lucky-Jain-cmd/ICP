@@ -206,6 +206,7 @@
 | [0063-unique-paths-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
@@ -250,6 +251,7 @@
 | [0007-reverse-integer](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0227-basic-calculator-ii) |
@@ -367,4 +369,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
