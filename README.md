@@ -246,6 +246,7 @@
 | [0200-number-of-islands](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
+| [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
+| [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 | [2924-find-champion-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2924-find-champion-ii) |
 ## Stack
@@ -360,6 +362,7 @@
 | [0200-number-of-islands](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
+| [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
 ## Shortest Path
 |  |
 | ------- |
@@ -372,6 +375,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0200-number-of-islands) |
+| [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
 ## Tree
 |  |
 | ------- |
