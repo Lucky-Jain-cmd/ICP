@@ -268,6 +268,7 @@
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
+| [2924-find-champion-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2924-find-champion-ii) |
 ## Stack
 |  |
 | ------- |
