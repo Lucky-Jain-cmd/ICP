@@ -46,6 +46,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -247,6 +248,7 @@
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2924-find-champion-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2924-find-champion-ii) |
 ## Stack
 |  |
@@ -363,6 +366,7 @@
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
@@ -380,6 +384,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
