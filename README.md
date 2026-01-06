@@ -251,6 +251,7 @@
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Math
 |  |
@@ -369,6 +370,7 @@
 | [0207-course-schedule](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0743-network-delay-time) |
 | [0886-possible-bipartition](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0886-possible-bipartition) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Shortest Path
 |  |
@@ -387,6 +389,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
@@ -396,4 +399,5 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
