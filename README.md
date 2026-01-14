@@ -32,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0575-distribute-candies) |
 | [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0917-boats-to-save-people) |
@@ -144,6 +145,7 @@
 | [0496-next-greater-element-i](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0575-distribute-candies) |
 | [1039-find-the-town-judge](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1039-find-the-town-judge) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
