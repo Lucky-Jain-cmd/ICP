@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
