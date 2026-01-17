@@ -52,6 +52,7 @@
 | [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0227-basic-calculator-ii) |
 | [0486-predict-the-winner](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0486-predict-the-winner) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Combinatorics
 |  |
 | ------- |
@@ -406,4 +408,8 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Lucky-Jain-cmd/ICP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
