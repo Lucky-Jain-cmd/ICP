@@ -47,6 +47,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1829-maximum-units-on-a-truck) |
 | [1975-maximum-matrix-sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1975-maximum-matrix-sum) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2294-minimum-time-to-complete-trips) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2073-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0225-implement-stack-using-queues) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2073-time-needed-to-buy-tickets) |
 ## Merge Sort
 |  |
 | ------- |
