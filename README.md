@@ -81,6 +81,7 @@
 | [0015-3sum](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0406-queue-reconstruction-by-height](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0455-assign-cookies) |
@@ -149,6 +150,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -172,6 +174,7 @@
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0402-remove-k-digits) |
