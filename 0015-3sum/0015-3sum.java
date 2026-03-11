@@ -1,33 +1,29 @@
 class Solution {
-    public void two_sum_logic(int f,int nums[],List<List<Integer>> res){
-        int i=f+1;
-        int j=nums.length-1;
-        while(i<j){
-            int sum = nums[f]+nums[i]+nums[j];
-            if(sum<0){
-                i++;
-            }
-            else if(sum>0){
-                j--;
-            }
-            else{
-                res.add(Arrays.asList(nums[f],nums[i],nums[j]));
-                i++;
-                j--;
-                while(i<j && nums[i]==nums[i-1]) i++;
-                while(i<j && nums[j]==nums[j+1]) j--;
-            }
-        }
-    }
     public List<List<Integer>> threeSum(int[] nums) {
+        int n = nums.length;
         Arrays.sort(nums);
-        List<List<Integer>> res = new ArrayList<>();
-        for(int f=0;f<nums.length;f++){
-            if(nums[f]>0) break;
-            else if(f==0 ||nums[f]!=nums[f-1]){
-                two_sum_logic(f,nums,res);
+        if(nums==null || nums.length<3) return new ArrayList<>();
+        Set<List<Integer>> res = new HashSet<>();
+        for(int i=0;i<nums.length-2;i++){
+            int left =i+1;
+            int right = n-1;
+            while(left<right){
+                int sum = nums[i]+nums[left]+nums[right];
+                if(sum==0) {
+                    res.add(Arrays.asList(nums[i],nums[left],nums[right]));
+                    left++;
+                    right--;
+                }
+
+                else if(sum>0){
+                    right--;
+                }
+                else{
+                    left++;
+                }
             }
+
         }
-        return res;
+        return new ArrayList<>(res);
     }
 }
