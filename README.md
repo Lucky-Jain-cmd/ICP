@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0152-maximum-product-subarray) |
@@ -149,6 +150,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0202-happy-number](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0383-ransom-note) |
@@ -429,4 +431,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0383-ransom-note) |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
