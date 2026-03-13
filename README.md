@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -103,6 +104,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
@@ -418,16 +420,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/2467-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Lucky-Jain-cmd/ICP/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lucky-Jain-cmd/ICP_Infinity_CHAMPIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Lucky-Jain-cmd/ICP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Geometry
 | Problem Name | Difficulty |
