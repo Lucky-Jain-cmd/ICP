@@ -17,18 +17,13 @@ class Solution {
                 m *= nums[i];
             }
         }
-        if(c==0){
-            for(int i=0;i<n;i++){
-                mm *= nums[i];
-            }
-        }
         if(c>1){
             return ans;
         }
 
         else if(c==0){
             for(int i=0;i<n;i++)
-            ans[i]=mm/nums[i];
+            ans[i]=m/nums[i];
         }
         else{
             for(int i=0;i<n;i++){
